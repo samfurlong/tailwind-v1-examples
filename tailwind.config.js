@@ -22,6 +22,7 @@ module.exports = {
     }),
     extend: {
       colors: {
+        'github-gray': '#fafbfc',
         'meetup-blue': '#00455D',
         'meetup-purple': '#1F24CC',
         'gray-750': '#3f495a',
